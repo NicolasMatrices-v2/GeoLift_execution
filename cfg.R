@@ -2,11 +2,16 @@
 ## Set working dir & Params ##
 ##############################
 
-# RADIO TEST CONSTANTS
-IN_DIR <- "/home/nicocru/geolift_uala/panel_data"
+# Local dirs
+# Note: here (and henceforth) we assume the working dir is this current file's
+# directory
+CURR_DIR <- getwd()
+IN_DIR <- file.path(CURR_DIR, "panel_data")
+
+# TEST CONSTANTS
 FILE_NAME <- "MMMMMM.csv"
 KPI <- "conversions"
-TREATMENT_LOCATIONS <- "AAAAAA"
+TREATMENT_LOCATIONS <- c("aaaaaa")
 TREATMENT_START <- "2020-01-02"
 TREATMENT_END <- "2020-03-02"
 

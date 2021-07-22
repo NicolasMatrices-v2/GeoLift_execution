@@ -1,3 +1,5 @@
+# File calculates the MDE for the specific Treatment locations and test duration specific in cfg.R.
+
 ######################
 ## Install packages ##
 ######################

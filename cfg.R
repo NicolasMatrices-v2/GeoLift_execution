@@ -1,3 +1,4 @@
+# File holds all constants that will be used throughout the code pipeline.
 ##############################
 ## Set working dir & Params ##
 ##############################

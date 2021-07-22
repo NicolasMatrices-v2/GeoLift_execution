@@ -1,3 +1,5 @@
+# File finds what the best treatment group and test duration for a certain country and dataset is.
+
 ######################
 ## Install packages ##
 ######################

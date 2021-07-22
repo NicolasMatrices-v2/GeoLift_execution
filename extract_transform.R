@@ -1,3 +1,5 @@
+# File extracts the data from panel_data dir, preprocesses it and transforms it into GeoLift input format.
+
 ######################
 ## Install packages ##
 ######################

@@ -1,3 +1,5 @@
+# File runs the actual GeoLift for a certain Treatment group, KPI and Treatment start and end dates.
+
 ######################
 ## Install packages ##
 ######################

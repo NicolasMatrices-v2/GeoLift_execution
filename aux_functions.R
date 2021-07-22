@@ -1,3 +1,5 @@
+# File holds auxiliary functions that aggregate lift simulation results & chart power curve plots.
+
 suppressPackageStartupMessages(library(ggplot2))
 suppressPackageStartupMessages(library(glue))
 
